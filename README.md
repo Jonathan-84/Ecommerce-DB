@@ -26,6 +26,8 @@
   After opening the forked repo on your local machine, confirm that you still have all of the local NPM packages on your machine. Then type "npm run see" in terminal. After that, type "node server" to initiate the app server.
 
   ## Images
+   ![video walkthrough] (https://drive.google.com/file/d/1G7Ea3bctnyQCBAFT0N0QlNJYo6bBi-Xs/view)
+
 
   ## Test
 
